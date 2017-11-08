@@ -12,8 +12,6 @@ Projeto de importação de usuários fluig em massa por meio de um arquivo XLS.
 
 ### Origem do desenvolvimento
 
-Projeto desenvolvido pelo SQUAD team de BPM do fluig após o evento “Cliente em nossa casa”.
-
 <table>
   <tr>
     <td>
